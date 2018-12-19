@@ -1,4 +1,3 @@
-# DataScience
 <img src="https://raw.githubusercontent.com/Janderscience/DataScience/master/7.%20Meus%20Notebooks/numpy/logo.png" alt="Janderscience">
 <h2>Repositório com arquivos relacionados a ciência de dados.</h2>
 <h2>Jupyter Notebooks:</h2>
